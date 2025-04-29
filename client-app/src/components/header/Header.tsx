@@ -1,4 +1,3 @@
-import HeaderHome from "./HeaderHome"
 import HeaderNavBar from "./HeaderNavBar"
 
 const Header = () => {
